@@ -1,14 +1,53 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+  "resources": [
+    {
+      title: "Sololearn",
+      type: "website",
+      link: "https://www.sololearn.com",
+      categories: ["fullstack-web"],
+      tags: ["python", "javascript", "php", "java", "c++", "c#", "html", "css"],
+    },
+    {
+      title: "Web Programming UNPAS",
+      type: "website",
+      link: "https://www.youtube.com/c/WebProgrammingUNPAS",
+      categories: ["fullstack-web"],
+      tags: ["html", "css", "javascript", "php", "codeigniter", "laravel"],
+    },
+    {
+      title: "Web Programming UNPAS",
+      type: "youtube",
+      link: "https://www.youtube.com/c/WebProgrammingUNPAS",
+      categories: ["fullstack-web"],
+      tags: ["html", "css", "javascript", "php", "codeigniter", "laravel"],
+    },
+    {
+      title: "Web Programming UNPAS",
+      type: "youtube",
+      link: "https://www.youtube.com/c/WebProgrammingUNPAS",
+      categories: ["fullstack-web"],
+      tags: ["html", "css", "javascript", "php", "codeigniter", "laravel"],
+    },
+    {
+      title: "Web Programming UNPAS",
+      type: "youtube",
+      link: "https://www.youtube.com/c/WebProgrammingUNPAS",
+      categories: ["fullstack-web"],
+      tags: ["html", "css", "javascript", "php", "codeigniter", "laravel"],
+    },
+    {
+      title: "Web Programming UNPAS",
+      type: "youtube",
+      link: "https://www.youtube.com/c/WebProgrammingUNPAS",
+      categories: ["fullstack-web"],
+      tags: ["html", "css", "javascript", "php", "codeigniter", "laravel"],
+    },
+    {
+      title: "Web Programming UNPAS",
+      type: "youtube",
+      link: "https://www.youtube.com/c/WebProgrammingUNPAS",
+      categories: ["fullstack-web"],
+      tags: ["html", "css", "javascript", "php", "codeigniter", "laravel"],
+    },
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
 }
